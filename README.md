@@ -29,6 +29,7 @@
 ### Guides
 
 - [Anthropic courses](https://github.com/anthropics/courses/tree/master)
+- [LLM Bootcamp (Spring 2023)](https://fullstackdeeplearning.com/llm-bootcamp/) (from The Full Stack)
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Pinecone learning center](https://www.pinecone.io/learn/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
