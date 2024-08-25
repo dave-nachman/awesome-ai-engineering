@@ -1,4 +1,4 @@
-# Awesome AI Engineer
+# Awesome AI Engineering
 
 > A curated list of awesome resources for [AI engineers](https://www.latent.space/p/ai-engineer)
 
@@ -98,7 +98,6 @@
 - [Awesome LLM planning and reasoning](https://github.com/samkhur006/awesome-llm-planning-reasoning?utm_source=pocket_shared)
 - [Awesome LLM resources](https://github.com/marco-jeffrey/awesome-llm-resources)
 - [Awesome RAG](https://github.com/frutik/Awesome-RAG)
-
 
 ## Tools
 
