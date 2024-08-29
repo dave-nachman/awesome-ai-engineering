@@ -31,6 +31,7 @@
 - [Anthropic courses](https://github.com/anthropics/courses/tree/master)
 - [LLM Bootcamp (Spring 2023)](https://fullstackdeeplearning.com/llm-bootcamp/) (from The Full Stack)
 - [OpenAI Cookbook](https://cookbook.openai.com/)
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) (from Eugene Yan, 2023)
 - [Pinecone learning center](https://www.pinecone.io/learn/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) (from Nir Diamant)
