@@ -128,8 +128,10 @@
 ### Observability / evals
 
 - [Evaluate](https://huggingface.co/docs/evaluate/en/index) (from HuggingFace) - "A library for easily evaluating machine learning models and datasets".
+- [Langfuse](https://langfuse.com/) — "Traces, evals, prompt management and metrics to debug and improve your LLM application".
 - [LangSmith](https://www.langchain.com/langsmith) - "LangSmith is an all-in-one developer platform for every step of the LLM-powered application lifecycle, whether you’re building with LangChain or not".
 - [Inspect](https://inspect.ai-safety-institute.org.uk/) - "An open-source framework for large language model evaluations".
+- [Weights & Biases Weave](https://wandb.ai/site/weave/) — "W&B Weave is here to help developers build and iterate on their AI applications with confidence."
 
 ### App building
 
