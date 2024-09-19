@@ -80,6 +80,7 @@
 
 ### Blogs
 
+- [Answer.AI](https://answer.ai/blog)
 - [Hamel Husain](https://hamel.dev/)
 - [Lilian Weng](https://lilianweng.github.io/)
 - [Simon Willison](https://simonwillison.net/)
