@@ -56,6 +56,7 @@
 
 - [A Hacker's Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) (talk by Jeremy Howard)
 - [The Brief History of AI Agents (2023-2024) ](https://www.youtube.com/watch?v=f9YleTc8AwE) (talk by swyz)
+- [How to Construct Domain Specific LLM Evaluation Systems](https://www.youtube.com/watch?v=eLXF0VojuSs) (talk by Hamel Husain and Emil Sedgh)
 
 ### Articles
 
