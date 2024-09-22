@@ -10,6 +10,7 @@
   - [Conference videos](#conference-videos)
   - [Talks](#talks)
   - [Articles](#articles)
+  - [Survey papers](#survey-papers)
   - [Books](#books)
   - [Blogs](#blogs)
   - [Not quite "AI engineer" but relevant](#not-quite-ai-engineer-but-relevant)
