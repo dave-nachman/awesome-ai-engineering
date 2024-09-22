@@ -72,6 +72,10 @@
 - [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) (from Hamel Husain)
 - [What AI Engineers Should Know About Search ](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search?utm_source=pocket_shared) (from Doug Turnbell)
 
+### Survey papers
+
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://trigaten.github.io/Prompt_Survey_Site/)
+
 ### Books
 
 - [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/) (by Chip Huyen, Early Release)
