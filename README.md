@@ -85,7 +85,7 @@
 
 ### Blogs
 
-- [Answer.AI](https://answer.ai/blog)
+- [Answer.AI](https://answer.ai)
 - [Hamel Husain](https://hamel.dev/)
 - [Lilian Weng](https://lilianweng.github.io/)
 - [Simon Willison](https://simonwillison.net/)
