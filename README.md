@@ -94,7 +94,8 @@
 
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - book by Sebastian Raschka.
 - [Building Recommendation Systems in Python and JAX](https://learning.oreilly.com/library/view/building-recommendation-systems/9781492097983/) (book by Bryan Bischof & Hector Yee)
-- [CUDA Mode YouTube videos](https://www.youtube.com/@CUDAMODE/featured)
+- [GPU Mode Discord](https://discord.gg/gpumode) (formerly CUDA Mode)
+- [GPU Mode YouTube videos](https://www.youtube.com/@CUDAMODE/featured) (formerly CUDA Mode)
 - [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) (book by Chip Huyen)
 - [fast.ai courses](http://fast.ai)
 - [Neural Networks - Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) (videos from Andrej Karpathy)
