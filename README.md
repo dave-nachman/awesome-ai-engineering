@@ -1,5 +1,5 @@
 # Awesome AI Engineering
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome resources for [AI engineers](https://www.latent.space/p/ai-engineer)
 
 ## Contents
