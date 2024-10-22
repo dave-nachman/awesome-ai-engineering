@@ -13,6 +13,7 @@
   - [Survey papers](#survey-papers)
   - [Books](#books)
   - [Blogs](#blogs)
+  - [Reading lists](#reading-lists)
   - [Not quite "AI engineer" but relevant](#not-quite-ai-engineer-but-relevant)
   - [Related awesome lists](#related-awesome-lists)
 - [Tools](#tools)
@@ -89,6 +90,10 @@
 - [Hamel Husain](https://hamel.dev/)
 - [Lilian Weng](https://lilianweng.github.io/)
 - [Simon Willison](https://simonwillison.net/)
+
+### Reading lists
+
+- [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
 
 ### Not quite "AI engineer" but relevant
 
