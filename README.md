@@ -82,6 +82,7 @@
 
 - [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/) (by Chip Huyen, Early Release)
 - [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning-ebook/dp/B0D3G58GDD) (by Louis-François Bouchard and Louie Peters)
+- [LLM Engineer's Handbook](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072) (by Paul Iusztin and Maxime Labonne)
 - [Prompt Engineering for LLMs](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098156145/) (by John Berryman & Albert Ziegler, Early Release)
 
 ### Blogs
