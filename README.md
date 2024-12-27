@@ -95,6 +95,7 @@
 ### Reading lists
 
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
+- [Latent Space's 2025 AI Engineering Reading List](https://www.latent.space/p/2025-papers)
 
 ### Not quite "AI engineer" but relevant
 
