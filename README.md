@@ -62,6 +62,7 @@
 
 ### Articles
 
+- [Agents](https://huyenchip.com/2025/01/07/agents.html) (from Chip Huyen)
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (from Honeycomb / Phillip Carter)
 - [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/?utm_source=pocket_saves) (from Eugene Yan)
 - [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/?utm_source=pocket_saves) (from Eugene Yan)
@@ -71,8 +72,8 @@
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) (from Lilian Weng)
 - [Successful language model evals](https://www.jasonwei.net/blog/evals) (from Jason Wei)
 - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) (from Swyx & Alessio Fanelli)
-- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) (from Hamel Husain)
 - [What AI Engineers Should Know About Search ](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search?utm_source=pocket_shared) (from Doug Turnbell)
+- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) (from Hamel Husain)
 
 ### Survey papers
 
@@ -80,10 +81,10 @@
 
 ### Books
 
-- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/) (by Chip Huyen, Early Release)
+- [AI Engineering](https://learning.oreilly.com/library/view/-/9781098166298/) (by Chip Huyen)
 - [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning-ebook/dp/B0D3G58GDD) (by Louis-François Bouchard and Louie Peters)
 - [LLM Engineer's Handbook](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072) (by Paul Iusztin and Maxime Labonne)
-- [Prompt Engineering for LLMs](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098156145/) (by John Berryman & Albert Ziegler, Early Release)
+- [Prompt Engineering for LLMs](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098156145/) (by John Berryman & Albert Ziegler)
 
 ### Blogs
 
