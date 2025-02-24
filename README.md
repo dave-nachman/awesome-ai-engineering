@@ -52,6 +52,7 @@
 
 - [AI Engineer Summit (2023)](https://www.ai.engineer/summit/2023)
 - [AI Engineer World Fair (2024)](https://www.ai.engineer/worldsfair)
+- [AI Engineer Summit (2025)](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VetQVGT1EqTbcr-qcgbfFs)
 - [Mastering LLMs conference](https://parlance-labs.com/education/)
 
 ### Talks
