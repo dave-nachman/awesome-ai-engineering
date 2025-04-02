@@ -63,6 +63,7 @@
 
 ### Articles
 
+- [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/) (from Hamel Husain)
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) (from Chip Huyen)
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (from Honeycomb / Phillip Carter)
 - [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/?utm_source=pocket_saves) (from Eugene Yan)
