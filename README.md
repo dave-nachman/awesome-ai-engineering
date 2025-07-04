@@ -67,6 +67,7 @@
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) (from Chip Huyen)
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (from Honeycomb / Phillip Carter)
 - [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/?utm_source=pocket_saves) (from Eugene Yan)
+- [Frequently Asked Questions (And Answers) About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
 - [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/?utm_source=pocket_saves) (from Eugene Yan)
 - [LLM Evaluation doesn't need to be complicated](https://www.philschmid.de/llm-evaluation) (from Phil Schmid)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) (from Lilian Weng)
