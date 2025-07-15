@@ -63,6 +63,7 @@
 
 ### Articles
 
+- [12-Factor Agents - Principles for building reliable LLM applications](https://github.com/humanlayer/12-factor-agents) (from Dex Horthy)
 - [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/) (from Hamel Husain)
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) (from Chip Huyen)
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (from Honeycomb / Phillip Carter)
