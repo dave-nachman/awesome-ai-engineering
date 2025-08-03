@@ -96,6 +96,7 @@
 - [Hamel Husain](https://hamel.dev/)
 - [Lilian Weng](https://lilianweng.github.io/)
 - [Simon Willison](https://simonwillison.net/)
+- [Zvi Mowshowitz](https://thezvi.substack.com/)
 
 ### Reading lists
 
