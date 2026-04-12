@@ -122,6 +122,8 @@
 - [Awesome RAG](https://github.com/frutik/Awesome-RAG)
 
 ## Tools
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO and Google Ads skills. Meta tag rewrites, schema markup, keyword bid adjustments, and CMS content pushes.
+
 
 ### Frameworks
 
