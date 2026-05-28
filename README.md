@@ -127,6 +127,7 @@
 
 - [LangChain](https://www.langchain.com/) - "LangChain is a framework for developing applications powered by large language models (LLMs)".
 - [LlamaIndex](https://www.llamaindex.ai/) - "LlamaIndex is the leading data framework for building LLM applications".
+- [Future AGI](https://github.com/future-agi/future-agi) - "Open-source self-hostable end-to-end agent engineering platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails".
 
 ### Libraries
 
@@ -148,10 +149,12 @@
 
 ### Observability / evals
 
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - "Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support."
 - [Evaluate](https://huggingface.co/docs/evaluate/en/index) (from HuggingFace) - "A library for easily evaluating machine learning models and datasets".
 - [Langfuse](https://langfuse.com/) — "Traces, evals, prompt management and metrics to debug and improve your LLM application".
 - [LangSmith](https://www.langchain.com/langsmith) - "LangSmith is an all-in-one developer platform for every step of the LLM-powered application lifecycle, whether you’re building with LangChain or not".
 - [Inspect](https://inspect.ai-safety-institute.org.uk/) - "An open-source framework for large language model evaluations".
+- [traceAI](https://github.com/future-agi/traceAI) - "Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in."
 - [Weights & Biases Weave](https://wandb.ai/site/weave/) — "W&B Weave is here to help developers build and iterate on their AI applications with confidence."
 
 ### App building
