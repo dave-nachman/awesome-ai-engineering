@@ -67,6 +67,7 @@
 - [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/) (from Hamel Husain)
 - [Agents](https://huyenchip.com/2025/01/07/agents.html) (from Chip Huyen)
 - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (from Honeycomb / Phillip Carter)
+- [Context Engineering: The Skill That Separates AI-Native Engineers](https://lab.aidevos.ai/context-engineering.html) (from AI Native Engineering / AI DevOS) — A framework for structuring the information you give AI models: 4 context types (structural, intent, state, constraint) × 3 levels (per-prompt, session, system). Argues that context architecture, not prompt phrasing, is the defining skill of AI-native software engineers.
 - [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/?utm_source=pocket_saves) (from Eugene Yan)
 - [Frequently Asked Questions (And Answers) About AI Evals](https://hamel.dev/blog/posts/evals-faq/) (from Hamel Husain and Shreya Shankar)
 - [How to Interview and Hire ML/AI Engineers](https://eugeneyan.com/writing/how-to-interview/?utm_source=pocket_saves) (from Eugene Yan)
