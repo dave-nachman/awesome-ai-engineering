@@ -42,6 +42,7 @@
 
 ### Podcasts
 
+- [Chain of Thought](https://chainofthought.show/)
 - [Gradient Dissent](https://wandb.ai/site/resources/podcast) (from Weights & Biases)
 - [High Agency](https://humanloop.com/podcast) (from Humanloop)
 - [Latent Space](https://www.latent.space/podcast)
