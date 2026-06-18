@@ -153,6 +153,7 @@
 - [LangSmith](https://www.langchain.com/langsmith) - "LangSmith is an all-in-one developer platform for every step of the LLM-powered application lifecycle, whether you’re building with LangChain or not".
 - [Inspect](https://inspect.ai-safety-institute.org.uk/) - "An open-source framework for large language model evaluations".
 - [Weights & Biases Weave](https://wandb.ai/site/weave/) — "W&B Weave is here to help developers build and iterate on their AI applications with confidence."
+- [Future AGI](https://github.com/future-agi/future-agi) - "Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.".
 
 ### App building
 
