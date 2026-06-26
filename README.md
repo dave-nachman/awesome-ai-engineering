@@ -125,6 +125,8 @@
 
 ### Frameworks
 
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system orchestrating dozens of coding-agent CLIs with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first.
+
 - [LangChain](https://www.langchain.com/) - "LangChain is a framework for developing applications powered by large language models (LLMs)".
 - [LlamaIndex](https://www.llamaindex.ai/) - "LlamaIndex is the leading data framework for building LLM applications".
 
