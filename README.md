@@ -123,6 +123,9 @@
 
 ## Tools
 
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source LLM prompt compression. Cuts ~65% of tokens. CPU-only. [supercompress.dev](https://supercompress.dev)
+
+
 ### Frameworks
 
 - [LangChain](https://www.langchain.com/) - "LangChain is a framework for developing applications powered by large language models (LLMs)".
