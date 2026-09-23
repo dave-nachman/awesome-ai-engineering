@@ -30,6 +30,7 @@
 
 ### Guides
 
+- [AI Engineer Notebooks](https://github.com/calmrocks/ai-engineer-notebooks) (framework-free, runnable Colab notebooks for the AI-engineer stack — RAG, evals, agents, serving — on the free Groq API)
 - [Anthropic courses](https://github.com/anthropics/courses/tree/master)
 - [LLM Bootcamp (Spring 2023)](https://fullstackdeeplearning.com/llm-bootcamp/) (from The Full Stack)
 - [OpenAI Cookbook](https://cookbook.openai.com/)
