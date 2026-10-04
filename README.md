@@ -35,6 +35,7 @@
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) (from Eugene Yan, 2023)
 - [Pinecone learning center](https://www.pinecone.io/learn/)
+- [Production RAG and agents notes](https://harut8.github.io/system-design/ai-rag/) (chunking, hybrid retrieval and reranking, evaluation methodology, LangGraph and agent orchestration, with labs)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) (from Nir Diamant)
 - [Vector databases](http://thedataquarry.com/posts/vector-db-1/) (four blog posts series from Prashanth Rao)
